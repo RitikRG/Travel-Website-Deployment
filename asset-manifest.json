@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2c0d5ee.css",
+    "main.js": "/static/js/main.ca2454d8.js",
+    "static/media/aboutHeaderBg.jpg": "/static/media/aboutHeaderBg.47b7547c688f8918cdb4.jpg",
+    "static/media/mtf2.jpg": "/static/media/mtf2.00e430279e438d858f22.jpg",
+    "static/media/greece.jpg": "/static/media/greece.90ef1f60805b75501044.jpg",
+    "static/media/newZealand.jpg": "/static/media/newZealand.406d1cbaf1952c42979f.jpg",
+    "static/media/contactHeaderBg.jpg": "/static/media/contactHeaderBg.e4e446196bd6aa993c20.jpg",
+    "static/media/norway.jpg": "/static/media/norway.f4810993603a30c9c982.jpg",
+    "static/media/india.jpg": "/static/media/india.891986b88b948e92bed1.jpg",
+    "static/media/italy.jpg": "/static/media/italy.deb80e10ae2010f05026.jpg",
+    "static/media/homeheaderbg.jpg": "/static/media/homeheaderbg.d7fe7a9be3be33a0521c.jpg",
+    "static/media/russia.jpg": "/static/media/russia.a713678c6b57b759849c.jpg",
+    "static/media/serviceHeaderBg.jpg": "/static/media/serviceHeaderBg.5c95d8c2c4debc0ae1ae.jpg",
+    "static/media/taalVolcano2.jpg": "/static/media/taalVolcano2.093bac2c7b78be6c0076.jpg",
+    "static/media/mtf1.jpg": "/static/media/mtf1.bb218a577de2df6608a5.jpg",
+    "static/media/taalVolcano1.jpg": "/static/media/taalVolcano1.29cab841e7267825a581.jpg",
+    "index.html": "/index.html",
+    "main.a2c0d5ee.css.map": "/static/css/main.a2c0d5ee.css.map",
+    "main.ca2454d8.js.map": "/static/js/main.ca2454d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2c0d5ee.css",
+    "static/js/main.ca2454d8.js"
+  ]
+}
